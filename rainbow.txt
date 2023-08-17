@@ -4,3 +4,6 @@ butterfly
 push-ups
 pull-ups
 leg-push
+eggs
+paneer
+soya-chunks
